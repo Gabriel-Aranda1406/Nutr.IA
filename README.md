@@ -1,4 +1,4 @@
-# App Dieta com I.A (Gemini)
+# App Nutr.IA (Gemini)
 
 ![Prints do aplicativo](Screenshot.png)
 
